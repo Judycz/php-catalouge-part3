@@ -1,0 +1,18 @@
+.brand {
+    color: rgb(255, 193, 7);
+    font-family: 'Permanent Marker', cursive;
+}
+
+.form-bg {
+    background: url('../img/bg.webp') center / cover no-repeat;
+}
+
+.form-bg form {
+    backdrop-filter: brightness(80%);
+}
+
+.form-bg h2,
+.form-bg p,
+.form-bg a {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+}
